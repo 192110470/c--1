@@ -13,7 +13,7 @@ int main()
 
     cout << endl << "Enter elements of 1st matrix: " << endl;
 
-    // Storing elements of first matrix entered by user.
+   
     for(i = 0; i < r; ++i)
        for(j = 0; j < c; ++j)
        {
@@ -21,7 +21,7 @@ int main()
            cin >> a[i][j];
        }
 
-    // Storing elements of second matrix entered by user.
+    
     cout << endl << "Enter elements of 2nd matrix: " << endl;
     for(i = 0; i < r; ++i)
        for(j = 0; j < c; ++j)
