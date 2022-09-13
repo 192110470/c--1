@@ -16,3 +16,4 @@ int main ()
     else
         cout << "\n" << num <<" is not a perfect number.";
     return 0;
+ } 
